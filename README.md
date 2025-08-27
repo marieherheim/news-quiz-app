@@ -1,6 +1,6 @@
 # News Quiz App
 
-A fun and interactive news quiz built with **Next.js**, **TypeScript**, and **Tailwind CSS**. Test your knowledge with multiple-choice and true/false questions, track your score with a timer, and see your progress in a visually engaging “game card” UI.
+A fun and interactive news quiz built with **Next.js**, **TypeScript**, and **Tailwind CSS**. Test your knowledge with multiple-choice and true/false questions.
 
 ## Getting Started
 
@@ -27,4 +27,4 @@ npm run dev
 # or
 yarn dev
 
-# Open http://localhost:3000 in your browser to see the quiz in action.
+Open http://localhost:3000 in your browser to see the quiz in action.
