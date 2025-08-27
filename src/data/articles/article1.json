@@ -1,0 +1,739 @@
+{
+  "urls": {
+    "relative": "/politikk/i/kw7vAa/ordfoerer-kent-ranum-soeker-fritak-erling-moe-rykker-opp"
+  },
+  "changes": {
+    "published": "2025-08-25T10:59:51Z",
+    "updated": "2025-08-25T13:36:34Z"
+  },
+  "customProperties": {
+    "livemode": "",
+    "snapTitle": "",
+    "prefix": "",
+    "snapDescription": "",
+    "snapDateTime": "",
+    "presentation": "news",
+    "varselsignal": "",
+    "postnr": "",
+    "tip": false,
+    "breaking": false,
+    "frontPageLeadText": "",
+    "seoDescription": "",
+    "countdown": "",
+    "toPrint": true,
+    "frontPageTitle": "Søker fritak fra ordfører-jobben: - Dette må skje litt fort",
+    "frontPageCardSize": "medium",
+    "bundleTitle": "",
+    "grade": null,
+    "fontSize": "110",
+    "showAds": true,
+    "showByline": false,
+    "skin": "auto",
+    "blockSearchEngineIndexing": false,
+    "seoTitle": "",
+    "frontPageImage": {
+      "id": "3ecf7b3e-6d25-4d45-bb2d-e86c3afa4b0f",
+      "size": { "width": 8640, "height": 5760 },
+      "hotspot": { "x": 2014, "y": 860, "width": 3687, "height": 2762 }
+    },
+    "someDescription": "",
+    "paywall": "closed",
+    "feature": false,
+    "someTitle": "",
+    "comments": "no",
+    "frontPageImageHeightOverride": "h-normal",
+    "label": "",
+    "wordCount": 872
+  },
+  "schemaType": "article",
+  "id": "kw7vAa",
+  "section": {
+    "id": "136a197d-797d-443a-bad1-08bdc43e01df",
+    "title": "Politikk",
+    "enabled": true
+  },
+  "title": {
+    "value": "Ordfører Kent Ranum søker fritak, Erling Moe rykker opp"
+  },
+  "characteristics": { "lifetime": 20, "hotness": 70 },
+  "access": { "restrictions": ["closed"] },
+  "newsroom": "adresseavisen",
+  "authors": [
+    {
+      "fullname": "Stian Wallum",
+      "slug": "stian-wallum",
+      "image": "9741b625-c179-4328-82a5-c925bc9fd41c",
+      "email": "stian.wallum@adresseavisen.no",
+      "phone": "98283751"
+    }
+  ],
+  "tags": [],
+  "promotionContent": {
+    "slug": "ordfoerer-kent-ranum-soeker-fritak-erling-moe-rykker-opp",
+    "context": {
+      "frontpage": [
+        {
+          "id": "1ca04581-4030-522a-8d9e-4c6950f6506b",
+          "weight": 100,
+          "title": {
+            "value": "Søker fritak fra ordfører-jobben: - Dette må skje litt fort"
+          },
+          "kicker": { "value": "" },
+          "imageAsset": {
+            "id": "3ecf7b3e-6d25-4d45-bb2d-e86c3afa4b0f",
+            "size": { "width": 8640, "height": 5760 },
+            "hotspot": { "x": 2014, "y": 860, "width": 3687, "height": 2762 }
+          }
+        }
+      ]
+    }
+  },
+  "intro": {
+    "type": "Intro",
+    "title": "Ordfører Kent Ranum søker fritak, Erling Moe rykker opp",
+    "frontPageTitle": "Søker fritak fra ordfører-jobben: - Dette må skje litt fort",
+    "media": {
+      "caption": { "value": "Kent Ranum, ordfører i Trondheim." },
+      "byline": { "title": "Martin Strøm" },
+      "imageAsset": {
+        "id": "96719a4d-98d8-46f0-a299-adc1b9e42947",
+        "size": { "width": 8640, "height": 5760 }
+      },
+      "type": "image"
+    },
+    "lead": "Kent Ranum (H) søker fritak fra ordfører-jobben i Trondheim. Om bystyret godtar det, blir Erling Moe ordfører i tre måneder etter nyttår.   ",
+    "promo": {
+      "caption": { "value": "Kent Ranum, ordfører i Trondheim." },
+      "byline": { "title": "Martin Strøm" },
+      "imageAsset": {
+        "id": "96719a4d-98d8-46f0-a299-adc1b9e42947",
+        "size": { "width": 8640, "height": 5760 }
+      },
+      "type": "image"
+    },
+    "frontPageImage": {
+      "type": "image",
+      "imageAsset": {
+        "id": "3ecf7b3e-6d25-4d45-bb2d-e86c3afa4b0f",
+        "size": { "width": 8640, "height": 5760 },
+        "hotspot": { "x": 2014, "y": 860, "width": 3687, "height": 2762 }
+      }
+    }
+  },
+  "some": {
+    "title": "Søker fritak fra ordfører-jobben: - Dette må skje litt fort",
+    "description": "Kent Ranum (H) søker fritak fra ordfører-jobben i Trondheim. Om bystyret godtar det, blir Erling Moe ordfører i tre måneder etter nyttår.   ",
+    "image": {
+      "id": "3ecf7b3e-6d25-4d45-bb2d-e86c3afa4b0f",
+      "size": { "width": 8640, "height": 5760 },
+      "hotspot": { "x": 2014, "y": 860, "width": 3687, "height": 2762 }
+    }
+  },
+  "seo": {
+    "title": "Ordfører Kent Ranum søker fritak, Erling Moe rykker opp",
+    "description": "Kent Ranum (H) søker fritak fra ordfører-jobben i Trondheim. Om bystyret godtar det, blir Erling Moe ordfører i tre måneder etter nyttår.   ",
+    "image": {
+      "id": "96719a4d-98d8-46f0-a299-adc1b9e42947",
+      "size": { "width": 8640, "height": 5760 }
+    }
+  },
+  "meta": { "hasVideo": true },
+  "components": [
+    {
+      "paragraphs": [
+        {
+          "text": {
+            "value": "Nyheten kom ut på rådhuset mandag formiddag – da Ranum informerte politikerne i forretningsutvalget. "
+          },
+          "blockType": "paragraph"
+        },
+        {
+          "text": {
+            "value": "Ranum har søkt og kommet inn på Forsvarets sjefskurs og har søkt om tre måneders fritak fra ordførerrollen fra 5. januar til 27. mars. "
+          },
+          "blockType": "paragraph"
+        }
+      ],
+      "type": "text"
+    },
+    {
+      "title": { "value": "Dette er Forsvarets sjefskurs" },
+      "paragraphs": [
+        {
+          "text": { "value": "Kurset er delt inn i tre perioder:" },
+          "blockType": "paragraph"
+        },
+        {
+          "items": [
+            { "value": "Norges forsvar" },
+            { "value": "Geopolitisk utvikling og sikkerhetsutfordringer" },
+            { "value": "Samfunnssikkerhet og kriseberedskap" }
+          ],
+          "blockType": "list:unordered"
+        },
+        {
+          "text": {
+            "value": "Målet med kurset er å gi nøkkelpersonell i forsvarssektoren og i sivil sektor økt kunnskap om og innsikt i forsvars-, utenriks- og sikkerhetspolitiske faktorer som har global og nasjonal betydning. "
+          },
+          "blockType": "paragraph"
+        },
+        {
+          "text": {
+            "value": "Totalforsvaret, statssikkerhet og samfunnssikkerhet vil være sentralt under kurset. "
+          },
+          "blockType": "paragraph"
+        },
+        {
+          "text": {
+            "value": "Kurset omfatter dessuten nasjonal beredskap, sivil-militært samarbeid og nasjonal krisehåndtering. "
+          },
+          "blockType": "paragraph"
+        },
+        {
+          "text": {
+            "value": "Sammensetningen av kursets deltakere skal sikre måloppnåelse gjennom deling av kompetanse fra hver enkelt deltaker, og det forventes at deltakerne bidrar aktivt i undervisningen der både gruppedrøftelser og drøftelser i plenum står sentralt.  Kilde: Forsvaret.no",
+            "markup": [{ "type": "style:em", "offset": 243, "length": 19 }]
+          },
+          "blockType": "paragraph"
+        }
+      ],
+      "type": "fact"
+    },
+    {
+      "paragraphs": [
+        {
+          "text": {
+            "value": "Saken skal etter planen diskuteres av trondheimspolitikerne denne uken, og en avgjørelse er ventet torsdag under bystyremøtet. "
+          },
+          "blockType": "paragraph"
+        }
+      ],
+      "type": "text"
+    },
+    {
+      "caption": {
+        "value": "Kent Ranum (H) har kommet inn på prestisje-kurs og søker fritak fra ordførerjobben i Trondheim. "
+      },
+      "byline": { "title": "Martin Strøm" },
+      "imageAsset": {
+        "id": "741f06dc-74d5-45c2-a985-8ce6176b0446",
+        "size": { "width": 8194, "height": 5463 }
+      },
+      "type": "image"
+    },
+    {
+      "paragraphs": [
+        {
+          "text": {
+            "value": "– Jeg må svare Forsvaret innen 29. august om jeg tar plassen, så dette må skje litt fort. Jeg fikk vite det selv på fredag, så dette er ferskt for meg også. "
+          },
+          "blockType": "paragraph"
+        },
+        {
+          "text": {
+            "value": "Forsvarets sjefskurs tar hvert år opp et knippe sivile deltakere. Sist var blant annet økokrim-sjefen og flere stortingsrepresentanter med på kurset. ",
+            "markup": [
+              {
+                "type": "link:external",
+                "offset": 87,
+                "length": 47,
+                "uri": "https://www.forsvaretsforum.no/forsvarets-sjefskurs-de-sivile-deltakerne-er-klare/406630"
+              }
+            ]
+          },
+          "blockType": "paragraph"
+        }
+      ],
+      "type": "text"
+    },
+    {
+      "type": "article",
+      "linkTitle": "Kent Ranum tester redningsvest",
+      "teaser": {
+        "id": "jQqK20",
+        "slug": "kent-ranum-tester-redningsvest",
+        "title": { "value": "Kent Ranum tester redningsvest" },
+        "type": "article",
+        "characteristics": {
+          "lifetime": 40,
+          "hotness": 10,
+          "timed": { "from": "2025-07-25T17:00:00Z", "to": null }
+        },
+        "changes": {
+          "published": "2025-07-25T17:00:07Z",
+          "updated": "2025-07-25T17:00:07Z"
+        },
+        "section": {
+          "id": "f1a624d0-b1e9-4443-b562-b97fed545bb8",
+          "title": "Video"
+        },
+        "urls": {
+          "relative": "/video/i/jQqK20/kent-ranum-tester-redningsvest"
+        },
+        "access": { "paywall": false },
+        "contentType": "video",
+        "media": {
+          "imageAsset": {
+            "id": "f75625d3-1595-4463-bc0c-100ae1b315bc",
+            "size": { "width": 2048, "height": 3638 }
+          },
+          "frontPageVideo": {
+            "provider": { "service": "svp", "id": "adressa" },
+            "title": { "value": "Kent Ranum tester redningsvest" },
+            "videoAsset": {
+              "id": "3019398",
+              "sourceFiles": [
+                {
+                  "width": 1080,
+                  "height": 1920,
+                  "bitrate": 5934,
+                  "sourceFile": "/adressa/vod/2025/07/688364acece6260008a68182/ps_1080_1920_5934.mp4"
+                }
+              ],
+              "metadata": {
+                "aspectRatio": "0.56",
+                "authors": "[\"12fc26dc-6e0f-4974-aa6a-f461140b8a5b\"]",
+                "newsLifetime": "2",
+                "newsValue": "3",
+                "preview": "https://dd-polaris.akamaized.net/adressa/vod/2025/07/688364acece6260008a68182/meta_preview.mp4",
+                "preview_360p": "https://dd-polaris.akamaized.net/adressa/vod/2025/07/688364acece6260008a68182/meta_preview_360p.mp4",
+                "preview_hq": "https://dd-polaris.akamaized.net/adressa/vod/2025/07/688364acece6260008a68182/meta_1080_6000_preview_hq.mp4"
+              }
+            },
+            "poster": "https://images.stream.schibsted.media/users/adressa/images/ad4a77c1bfbdd6395048a520a8e8bf1e.jpg?t[]=380q80",
+            "previewSources": [
+              "https://dd-polaris.akamaized.net/adressa/vod/2025/07/688364acece6260008a68182/meta_preview_360p.mp4",
+              "https://dd-polaris.akamaized.net/adressa/vod/2025/07/688364acece6260008a68182/meta_preview.mp4"
+            ]
+          }
+        },
+        "tags": [
+          {
+            "id": "0407ad7e-47f8-40ce-b281-0c86f017c75c",
+            "title": "Autoplay",
+            "type": "machine",
+            "slug": "autoplay"
+          }
+        ],
+        "contentSharing": {
+          "sourceId": "3019398",
+          "sourceNewsroom": "adressa-svp",
+          "immediateSourceId": "3019398"
+        },
+        "videoDuration": 54483
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "text": { "value": "– Relevant slik situasjonen er nå" },
+          "blockType": "heading"
+        }
+      ],
+      "type": "text"
+    },
+    {
+      "paragraphs": [
+        {
+          "text": {
+            "value": "Ranum møter Adresseavisen på ordførerkontoret mandag morgen. "
+          },
+          "blockType": "paragraph"
+        },
+        {
+          "text": {
+            "value": "Han er både stolt og litt spent. Det er ikke dagligdags at en ordfører i Trondheim søker fritak."
+          },
+          "blockType": "paragraph"
+        },
+        {
+          "text": {
+            "value": "– Jeg har lufta det med noen på rådhuset, og der har det bare vært positive tilbakemeldinger. Men jeg har bedt om at saken skal legges fram for bystyret, slik at de avgjør. Akkurat den situasjonen her, med en aktivitet som dukker opp og som jeg har initiert sjøl, er jo noe annet enn for eksempel sykdom. "
+          },
+          "blockType": "paragraph"
+        }
+      ],
+      "type": "text"
+    },
+    {
+      "caption": { "value": "Kent Ranum på ordførerens kontor" },
+      "byline": { "title": "Martin Strøm" },
+      "imageAsset": {
+        "id": "679ca30c-fb63-42b1-8a36-397194e08f5a",
+        "size": { "width": 7768, "height": 5179 }
+      },
+      "type": "image"
+    },
+    {
+      "paragraphs": [
+        {
+          "text": {
+            "value": "– Hvordan forventer du at politikerkollegene reagerer?",
+            "markup": [{ "type": "style:strong", "offset": 0, "length": 54 }]
+          },
+          "blockType": "paragraph"
+        },
+        {
+          "text": {
+            "value": "– Det vet jeg jo ikke. Men jeg tror kommunen òg kan ha godt av at ledere går gjennom lederutviklingsprogram og får litt innblikk i nye sider av samfunnet. Særlig sånn som verden er nå. Det er mye mer fokus på totalberedskap, og hvordan det sivile og militære kan jobbe enda bedre sammen. Derfor mener jeg kurset er høyst relevant. "
+          },
+          "blockType": "paragraph"
+        }
+      ],
+      "type": "text"
+    },
+    {
+      "type": "loopingVideo",
+      "changes": {
+        "created": "2025-08-25T09:18:36Z",
+        "updated": "2025-08-25T11:10:49Z",
+        "firstPublished": "2025-08-25T09:24:35Z",
+        "published": "2025-08-25T09:24:35Z"
+      },
+      "videoAsset": {
+        "duration": 64708,
+        "flightTimes": { "start": 1756113875 },
+        "id": "3020055",
+        "metadata": {
+          "aspectRatio": "0.56",
+          "hasSubtitlesInHls": "true",
+          "preview": "https://dd-polaris.akamaized.net/adressa/vod/2025/08/68ac2ab1ffa4ca000852deb7/meta_preview.mp4",
+          "preview_360p": "https://dd-polaris.akamaized.net/adressa/vod/2025/08/68ac2ab1ffa4ca000852deb7/meta_preview_360p.mp4",
+          "preview_hq": "https://dd-polaris.akamaized.net/adressa/vod/2025/08/68ac2ab1ffa4ca000852deb7/meta_1080_6000_preview_hq.mp4"
+        },
+        "section": {
+          "id": "27",
+          "title": "Kun til CNP",
+          "shortPath": "kun-til-cnp"
+        },
+        "showDisplays": true,
+        "showAds": true,
+        "sourceFiles": [
+          {
+            "width": 1080,
+            "height": 1920,
+            "bitrate": 6059,
+            "sourceFile": "/adressa/vod/2025/08/68ac2ab1ffa4ca000852deb7/ps_1080_1920_6059.mp4"
+          }
+        ],
+        "streamType": "vod",
+        "assetType": "video",
+        "streamUrls": {
+          "hls": "https://amd-polaris.akamaized.net/adressa/vod/2025/08/68ac2ab1ffa4ca000852deb7/,152_270_401,202_360_411,304_540_756,406_720_1288,608_1080_2541,/master.m3u8",
+          "mp4": "https://dd-polaris.akamaized.net/adressa/vod/2025/08/68ac2ab1ffa4ca000852deb7/ps_1080_1920_6059.mp4",
+          "pseudostreaming": [
+            "https://dd-polaris.akamaized.net/adressa/vod/2025/08/68ac2ab1ffa4ca000852deb7/ps_1080_1920_6059.mp4"
+          ]
+        },
+        "title": "Kent Ranum",
+        "subtitles": [
+          {
+            "language": "nb_NO",
+            "url": "https://amd-polaris.akamaized.net/adressa/vod/2025/08/68ac2ab1ffa4ca000852deb7/subs/1756120249/_nb.vtt",
+            "default": false
+          }
+        ]
+      },
+      "imageAsset": {
+        "id": "d2cb7cb75769dec514ce14fa2eaaedc9@tv",
+        "main": "https://images.stream.schibsted.media/users/adressa/images/d2cb7cb75769dec514ce14fa2eaaedc9.jpg",
+        "snapshots": "https://images.stream.schibsted.media/users/adressa/images/0bdb49f8b7ca6a6f8d100ab92e956388.jpg"
+      },
+      "characteristics": {},
+      "provider": { "service": "svp", "id": "adressa" },
+      "presentationProperties": {
+        "intention": "looping",
+        "withMuteControl": "true"
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "text": { "value": "Tipset av oberst på Luftkrigsskolen" },
+          "blockType": "heading"
+        }
+      ],
+      "type": "text"
+    },
+    {
+      "paragraphs": [
+        {
+          "text": {
+            "value": "Ranum humrer litt av at han skal inn i Forsvarets lederkurs uten å ha avtjent førstegangstjenesten. "
+          },
+          "blockType": "paragraph"
+        },
+        {
+          "text": {
+            "value": "– Jeg fikk fritak fra det, fordi jeg var heltids juss-student, men nå er jeg klar. Lederkurset er voldsomt framsnakket av flere, så jeg håper dette går gjennom. "
+          },
+          "blockType": "paragraph"
+        }
+      ],
+      "type": "text"
+    },
+    {
+      "paragraphs": [
+        {
+          "text": {
+            "value": "– Hvordan fikk du ideen til å søke? ",
+            "markup": [{ "type": "style:strong", "offset": 0, "length": 36 }]
+          },
+          "blockType": "paragraph"
+        },
+        {
+          "text": {
+            "value": "– Det er flere som har framsnakket kurset, men først så var det vel oberst Marianne Døhl på Luftkrigsskolen. Hun sa det var et fantastisk godt kurs, så da begynte jeg å nøste litt og sette meg litt inn i det. Jeg fylte ut et skjema på nettet tidligere i august. "
+          },
+          "blockType": "paragraph"
+        }
+      ],
+      "type": "text"
+    },
+    {
+      "caption": { "value": "Kent Ranum på ordførerens kontor mandag morgen." },
+      "byline": { "title": "Martin Strøm" },
+      "imageAsset": {
+        "id": "a611b196-4354-4912-a451-cda857fb3775",
+        "size": { "width": 6832, "height": 4555 }
+      },
+      "type": "image"
+    },
+    {
+      "paragraphs": [
+        {
+          "text": {
+            "value": "Kurset har ikke avgift, men Ranum må bekoste reise og losji. "
+          },
+          "blockType": "paragraph"
+        },
+        {
+          "text": {
+            "value": "– Jeg tenker å leie en Airbnb. Tre måneder på hotell det takler jeg dårlig. Og så reiser jeg hjem i helgene. Jeg blir ikke totalt avlogga, men har fått høre at du ikke kan regne med å ha tid til å jobbe samtidig med kurset. "
+          },
+          "blockType": "paragraph"
+        }
+      ],
+      "type": "text"
+    },
+    {
+      "type": "article",
+      "linkTitle": "Han er ny gruppeleder i Høyre",
+      "teaser": {
+        "id": "kwk3BX",
+        "slug": "han-er-ny-gruppeleder-i-hoeyre",
+        "title": { "value": "Ny gruppeleder: – Jeg er veldig takknemlig" },
+        "type": "article",
+        "characteristics": { "lifetime": 40, "hotness": 60 },
+        "changes": {
+          "published": "2025-08-07T16:44:40Z",
+          "updated": "2025-08-07T17:08:34Z"
+        },
+        "section": {
+          "id": "b89679f1-ba14-4ecf-9314-7b8e46b657c1",
+          "title": "Trondheim",
+          "parent": {
+            "id": "890e4515-8b99-410f-bd2d-7019a5c8f9b5",
+            "title": "Nyheter"
+          }
+        },
+        "urls": {
+          "relative": "/nyheter/trondheim/i/kwk3BX/han-er-ny-gruppeleder-i-hoeyre"
+        },
+        "access": { "paywall": true },
+        "lead": "Trondheim Høyre hadde torsdag kveld et ekstraordinært gruppemøte.",
+        "media": {
+          "imageAsset": {
+            "id": "6ebf7065-d595-46ec-894c-73ea27e6ffa6",
+            "size": { "width": 8251, "height": 5501 }
+          }
+        },
+        "authors": [
+          {
+            "fullname": "Sigrid Ålmo Moa",
+            "slug": "sigrid-aalmo-moa",
+            "image": "99489e3d-0454-4fce-8b97-ac4102775115"
+          }
+        ],
+        "tags": [],
+        "customProperties": {
+          "presentation": "news",
+          "frontPageCardSize": "small",
+          "fontSize": "100",
+          "skin": "auto",
+          "frontPageImageHeightOverride": "h-normal"
+        }
+      }
+    },
+    {
+      "paragraphs": [
+        {
+          "text": { "value": "– Ingen betenkeligheter" },
+          "blockType": "heading"
+        },
+        {
+          "text": {
+            "value": "Kent Ranum ble trondheimsordfører etter en heftig valgkamp i 2023 og en nesten like heftig forhandlingsperiode der han samlet seks partier og fikk et skjørt flertall sammen med støttepartiet Frp. Ranum tok over etter 20 års Ap-styre. "
+          },
+          "blockType": "paragraph"
+        }
+      ],
+      "type": "text"
+    },
+    {
+      "caption": {
+        "value": "Høyre i Trondheim farget en trikk blå og klistret på reklame for Kent Ranum som ny ordfører i Trondheim under valgkampen i 2023."
+      },
+      "byline": { "title": "Morten Antonsen" },
+      "imageAsset": {
+        "id": "35122d41-b9c2-4bc4-80e4-4aa774ebf29c",
+        "size": { "width": 8640, "height": 5760 }
+      },
+      "type": "image"
+    },
+    {
+      "paragraphs": [
+        {
+          "text": {
+            "value": "Ranum initierte deretter overgang til parlamentarisme og det vakte oppsikt da han bestemte at Kristian Dahlberg Hauge, og ikke han selv, skulle bli byrådsleder"
+          },
+          "blockType": "paragraph"
+        },
+        {
+          "text": {
+            "value": " – Har du noen betenkeligheter med å søke fritak midt i perioden? Folk har stemt deg inn i den rollen og du innehar byens øverste verv?",
+            "markup": [{ "type": "style:strong", "offset": 0, "length": 135 }]
+          },
+          "blockType": "paragraph"
+        },
+        {
+          "text": {
+            "value": "– Jeg har ikke noen betenkeligheter. Jeg kunne også ha blitt syk eller vært borte av andre årsaker fra jobb. Det har det vært fint lite av så langt. Så jeg tenker at det skal gå bra også med Erling Moe som fungerende ordfører."
+          },
+          "blockType": "paragraph"
+        },
+        {
+          "text": {
+            "value": "– Høyre byttet nylig gruppeleder, og nå blir det tre måneder uten Høyre-ordfører. Er det tegn på at noe ikke fungerer at disse sakene kommer nå? ",
+            "markup": [
+              { "type": "style:strong", "offset": 0, "length": 145 },
+              {
+                "type": "link:internal",
+                "offset": 8,
+                "length": 24,
+                "uri": "article:Jb9qMR"
+              }
+            ]
+          },
+          "blockType": "paragraph"
+        },
+        {
+          "text": {
+            "value": "– Nei, det er det overhodet ikke. Det er jo to vidt forskjellige saker. Bytte av gruppeleder skjedde egentlig før sommeren da Berit Tiller trakk seg. Min søknad på dette kurset handler om lederutvikling. Jeg opplever at det er veldig god stemning i vår bystyregruppe. Vi har hatt en bred og grundig prosess i bystyregruppa gjennom sommeren, som førte til enstemmig valg av Mats Ramo som gruppeleder."
+          },
+          "blockType": "paragraph"
+        }
+      ],
+      "type": "text"
+    },
+    {
+      "caption": { "value": "Gruppeleder i Høyre, Mats Ramo." },
+      "byline": { "title": "Morten Antonsen" },
+      "imageAsset": {
+        "id": "bdbe3877-fc1c-4652-9159-a7b1ad2555b9",
+        "size": { "width": 8640, "height": 5760 }
+      },
+      "type": "image"
+    },
+    {
+      "paragraphs": [
+        {
+          "text": {
+            "value": "Det er ennå uklart hva som skjer med varaordfører-rollen om Ranums søknad godtas og Moe blir ordfører. En løsning er at nettopp gruppeleder Ramo også blir varaordfører. "
+          },
+          "blockType": "paragraph"
+        }
+      ],
+      "type": "text"
+    },
+    {
+      "paragraphs": [
+        { "text": { "value": "" }, "blockType": "heading" },
+        { "text": { "value": "" }, "blockType": "paragraph" }
+      ],
+      "type": "text"
+    },
+    {
+      "paragraphs": [
+        { "text": { "value": "– Unner Kent dette" }, "blockType": "heading" },
+        {
+          "text": {
+            "value": "Varaordfører Erling Moe har visst en stund at ordføreren har søkt på Forsvarets sjefskurs. "
+          },
+          "blockType": "paragraph"
+        },
+        {
+          "text": {
+            "value": "Fredag fikk han beskjed fra Ranum om at ordføreren hadde fått studieplass, og at han må gjøre seg klar for å tre inn i ordførerrollen i tre måneder etter nyttår. "
+          },
+          "blockType": "paragraph"
+        }
+      ],
+      "type": "text"
+    },
+    {
+      "caption": {
+        "value": "Erling Moe (V) under en av sine oppdrag som varaordfører."
+      },
+      "byline": { "title": "Morten Antonsen" },
+      "imageAsset": {
+        "id": "1eba6b7a-6b72-4e3f-bab7-613f3931083a",
+        "size": { "width": 8640, "height": 5760 }
+      },
+      "type": "image"
+    },
+    {
+      "paragraphs": [
+        {
+          "text": {
+            "value": "– Kent har gjort en utmerket jobb og jeg skal gjøre så godt jeg kan så lenge han er på kurset. Han har kommet inn på Norges beste lederkurs, det blir en bra erfaring for Kent. Jeg unner han dette. "
+          },
+          "blockType": "paragraph"
+        },
+        {
+          "text": {
+            "value": "– Er det uheldig at ordføreren søker fritak og blir borte fra politikken i tre måneder?",
+            "markup": [{ "type": "style:strong", "offset": 0, "length": 87 }]
+          },
+          "blockType": "paragraph"
+        },
+        {
+          "text": {
+            "value": "– Nei. Tvert imot. At ordføreren får gå på Norges beste lederkurs er fantastisk – også for kommunen. Jeg ser bare oppsider ved dette."
+          },
+          "blockType": "paragraph"
+        },
+        {
+          "text": {
+            "value": "– Hvordan blir ordfører Erling Moe annerledes enn Kent Ranum?",
+            "markup": [{ "type": "style:strong", "offset": 0, "length": 61 }]
+          },
+          "blockType": "paragraph"
+        },
+        {
+          "text": {
+            "value": "– Jeg vil helst ikke sammenligne oss. Siden valget har vi jobbet i team og jeg kjenner godt til hva som er arbeidsoppgavene. Det vi har felles er det lidenskapelige forholdet til Trondheim. "
+          },
+          "blockType": "paragraph"
+        },
+        {
+          "text": {
+            "value": "Hvis forretningsutvalget og bystyret godtar Ranums søknad om fritak, blir Erling Moe den første Venstre-politikeren med ordførerkjedet i Trondheim."
+          },
+          "blockType": "paragraph"
+        }
+      ],
+      "type": "text"
+    }
+  ]
+}
