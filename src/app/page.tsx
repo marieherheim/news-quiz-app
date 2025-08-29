@@ -49,13 +49,14 @@ export default function Home() {
     [currentIndex, showResult, quiz]
   );
 
-  const isQuizComplete = useMemo(() => 
+  const isQuizComplete = useMemo(() =>
     quiz && currentIndex + 1 >= quiz.questions.length,
     [quiz, currentIndex]
   );
 
-  // Hjelpefunksjon for å resette state variables, slik at ikke score o.l. henger igjen fra forrige quiz
-  // resetter ikke setBestStreak fordi jeg ønsker å la brukeren beholde beste streak
+  // hjelpefunksjon for å resette state variables, slik at ikke score o.l. henger igjen fra forrige quiz
+  // resetter ikke setBestStreak fordi jeg ønsker å la brukeren beholde beste streak (beholdes bare til refresh eller lignende da..)
+  // på sikt: kunne brukt localStorage e.l. til å lagre
   const resetQuizState = useCallback(() => {
     setCurrentIndex(0);
     setSelectedAnswer(null);
@@ -68,18 +69,13 @@ export default function Home() {
   }, []);
 
   const fetchQuiz = useCallback(async () => {
-    console.log("[Quiz] Starting to fetch quiz...");
     setIsLoading(true);
     setError(null);
 
     try {
       const res = await fetch("/api/generate-quiz", {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({}),
       });
-
-      console.log("[Quiz] Response received:", res);
 
       if (!res.ok) {
         throw new Error(`Kunne ikke laste quiz: ${res.status} ${res.statusText}`);
@@ -87,7 +83,6 @@ export default function Home() {
 
       // read the body stream and convert it from bytes to a string and parse to JS object
       const data = await res.json();
-      console.log("[Quiz] Parsed JSON data:", data);
 
       if (!data.questions || !Array.isArray(data.questions)) {
         throw new Error("Ugyldig quiz-data mottatt");
@@ -105,8 +100,7 @@ export default function Home() {
   }, [resetQuizState]);
 
 
-  // Effekt for å animere poengsummen
-  // Denne hooken gjør at poengsummen animeres jevnt opp til den nye verdien i stedet for å endre seg plutselig
+  // animer jevnt opp til den nye verdien i stedet for å "hoppe"
   useEffect(() => {
     // hvis ny score er lik den gamle så trenger vi ikke gjøre noe
     if (score === animatedScore) return;

@@ -13,7 +13,7 @@ export default function RootLayout({
   return (
     <html lang="no">
       <body>
-        <nav className="p-4 bg-[#005379] shadow-md h-16">
+        <nav className="p-4 bg-brand shadow-md h-16">
         </nav>
         {children}
       </body>

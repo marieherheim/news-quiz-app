@@ -111,27 +111,7 @@ export async function POST() {
 
     // Validate the quiz structure
     if (!quiz.questions || !Array.isArray(quiz.questions)) {
-      throw new Error("Invalid quiz format: missing questions array");
-    }
-
-    // Validate each question
-    for (const question of quiz.questions) {
-      if (
-        !question.question ||
-        !question.type ||
-        !question.options ||
-        !question.answer
-      ) {
-        throw new Error("Invalid question format: missing required fields");
-      }
-
-      if (!["multipleChoice", "trueOrFalse"].includes(question.type)) {
-        throw new Error("Invalid question type");
-      }
-
-      if (!question.options.includes(question.answer)) {
-        throw new Error("Answer not found in options");
-      }
+      throw new Error("Invalid quiz format");
     }
 
     return NextResponse.json(quiz);
