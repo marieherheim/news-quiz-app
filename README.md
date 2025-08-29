@@ -1,5 +1,7 @@
 # News Quiz App
 
+https://news-quiz-app-rust.vercel.app/
+
 A fun and interactive news quiz built with **Next.js**, **TypeScript**, and **Tailwind CSS**. Test your knowledge with multiple-choice and true/false questions.
 
 ## Getting Started
